@@ -28,4 +28,22 @@ The analysis of the election show that:
   
   ## Challenge Overview
   
+The purpose of this election audit was a response to a request from the election commission for additional data regarding the following:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+# Election-Audit Results: 
+The image below provides a snapshot of the following information: How many votes were cast in this congressional election?
+  - The total votes in this congressional election
+  - A breakdown of the number of votes and the percentage of total votes for each county in the precinct
+  - The county that had the largest number of votes
+  - A breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - The candidate that won the election, their vote count, and percentage of the total votes
+
   ## Challenge Summary
+This script has provided a detailed breakdown of the election results and is both reusable and expandable for other elections as well. If given the opportunity we can adapt the script to include a more detailed breakdown that could include the following information for example:
+-	Votes by precinct for each candidate
+-	Percent votes by precinct for each candidate
+-	 A breakdown of how many votes a candidate trailed the winner in each county
+With this additional information, candidates can learn where their campaigning is strongest and where there is a need for more campaigning in the future.
